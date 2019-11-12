@@ -1,2 +1,2 @@
 # win_share_ubuntu
-For share file 
+用于在win10与ubuntu之间共享文件
