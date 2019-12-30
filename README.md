@@ -1,2 +1,0 @@
-# win_share_ubuntu
-用于在win10与ubuntu之间共享文件
